@@ -1,0 +1,11 @@
+.container {
+    border: 1px solid rebeccapurple;
+    background: rgb(168, 221, 219);
+}
+
+.col {
+    border: 1px solid rebeccapurple;
+}
+nav ul li {
+    display: inline-block;
+}
